@@ -1,9 +1,9 @@
 package server;
+
 import server.clienti.Cliente;
 import server.clienti.ListaClienti;
 import server.premi.ListaPremi;
 import server.premi.Premio;
-
 import javax.ws.rs.*;
 import javax.ws.rs.core.*;
 import java.net.URI;
